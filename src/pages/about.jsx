@@ -82,9 +82,9 @@ export default function About() {
                 build websites and apps for real.
               </p>
               <p>
-                Today, I’m the founder of Seanna Tech, where we’re working on
-                building the future of the web. I’m also a freelance web
-                developer, and I’m available for hire.
+                Today, I’m a freelance web developer and designer. I work with
+                small businesses and startups to build beautiful, fast, and
+                accessible websites and apps.
               </p>
             </div>
           </div>
