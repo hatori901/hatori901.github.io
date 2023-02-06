@@ -4,7 +4,7 @@ import Head from 'next/head'
 import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import logoAnimaginary from '@/images/logos/animaginary.svg'
-import logoCosmos from '@/images/logos/cosmos.svg'
+import logoCosmos from '@/images/logos/agenpembayaran.png'
 import logoHelioStream from '@/images/logos/gameringo.png'
 import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
 import logoPlanetaria from '@/images/logos/kommunitas.png'
@@ -21,7 +21,7 @@ const projects = [
     name: 'Desentalized Exchange',
     description:
       'Exchange for all crypto assets on Ethereum Network',
-    link: { href: '#', label: 'github.com' },
+    link: { href: 'https://github.com/hatori901/web3', label: 'github.com' },
     logo: logoAnimaginary,  
   },
   {
@@ -32,18 +32,11 @@ const projects = [
     logo: logoHelioStream,
   },
   {
-    name: 'cosmOS',
+    name: 'Agen Pembayaran Indonesia',
     description:
-      'The operating system that powers our Planetaria space shuttles.',
-    link: { href: '#', label: 'github.com' },
+      'Agen Pembayaran Indonesia is a payment agent for top up balance in forex trading.',
+    link: { href: 'https://agenpembayaranindonesia.com', label: 'agenpembayaranindonesia.com' },
     logo: logoCosmos,
-  },
-  {
-    name: 'OpenShuttle',
-    description:
-      'The schematics for the first rocket I designed that successfully made it to orbit.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoOpenShuttle,
   },
 ]
 

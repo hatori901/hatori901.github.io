@@ -68,18 +68,17 @@ export default function About() {
               <p>
                 I grew up in a small town in Purwokerto, where the
                 only thing to do was play video games and build rockets. I
-                started programming when I was 13, and by the time I was 15 I was
+                started programming when I was 16, and by the time I was 17, I was
                 already building my own websites and apps.
               </p>
               <p>
                 The only problem was that I didn’t have a computer. I had to
-                borrow my dad’s Blackberry to do any coding, and I had to do it
+                borrow my dad’s Computer to do any coding, and I had to do it
                 in secret because my parents didn’t want me to spend so much
                 time on the computer.
               </p>
               <p>
-                I was lucky enough to get a scholarship to study computer
-                science at the State University of Yogyakarta, where I learned how to
+                I was lucky enough to get a opportunity to study information technology at the State University of Yogyakarta, where I learned how to
                 build websites and apps for real.
               </p>
               <p>
